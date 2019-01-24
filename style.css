@@ -36,6 +36,8 @@ li a:visited:hover {
 }
 .content {
     margin-top: 60px;
+    background-image: radial-gradient(#000, #005);
+    color: white;
 }
 .button {
     background-image: radial-gradient(#000, #005);
