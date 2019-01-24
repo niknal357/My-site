@@ -34,7 +34,7 @@ li a:visited:hover {
     color: red;
 }
 li a.curpos {
-    background-image: radial-gradient(#fff, #0f0);
+    background-image: radial-gradient(#fff, #060);
     color: black;
 }
 .content {
