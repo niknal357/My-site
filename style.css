@@ -24,7 +24,6 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-
 li a:hover {
     background-image: radial-gradient(#fff, #fc0);
     color: black;
@@ -33,6 +32,10 @@ li a:hover {
 li a:visited:hover {
     text-decoration: underline red;
     color: red;
+}
+.curpos {
+    background-image: radial-gradient(#fff, #0f0);
+    color: black;
 }
 .content {
     margin-top: 60px;
