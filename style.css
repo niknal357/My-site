@@ -33,7 +33,7 @@ li a:visited:hover {
     text-decoration: underline red;
     color: red;
 }
-.curpos {
+li a.curpos {
     background-image: radial-gradient(#fff, #0f0);
     color: black;
 }
