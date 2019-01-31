@@ -10,7 +10,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-image: radial-gradient(#000, #005);
+    background-color: black;
 }
 
 li {
@@ -25,25 +25,24 @@ li a {
     text-decoration: none;
 }
 li a:hover {
-    background-image: radial-gradient(#fff, #fc0);
+    background-color: #fc0;
     color: black;
     text-decoration: underline #0ff;
 }
 li a:visited:hover {
-    text-decoration: underline red;
-    color: red;
+    background-color: red;
 }
 li a.curpos {
-    background-image: radial-gradient(#fff, #060);
+    background-color: #060;
     color: black;
 }
 .content {
     margin-top: 60px;
-    background-image: radial-gradient(#000, #005);
+    background-color: black;
     color: white;
 }
 .button {
-    background-image: radial-gradient(#000, #005);
+    background-color: black;
     display: inline-block;
     color: white;
     text-align: center;
@@ -52,11 +51,19 @@ li a.curpos {
     margin: 0;
 }
 .button:hover {
-    background-image: radial-gradient(#fff, #fc0);
+    background-color: #fc0;
     color: black;
-    text-decoration: underline #0ff;
 }
 .button:visited:hover {
     text-decoration: underline red;
+    color: red;
+}
+a {
+    color: #88f;
+}
+a:hover {
+    color: white;
+}
+a:visited:hover {
     color: red;
 }
