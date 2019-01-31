@@ -30,6 +30,7 @@ li a:hover {
 }
 li a:visited:hover {
     background-color: red;
+    color: white;
 }
 li a.curpos {
     background-color: #060;
