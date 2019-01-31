@@ -26,11 +26,9 @@ li a {
 }
 li a:hover {
     background-color: #fc0;
-    color: black;
 }
 li a:visited:hover {
     background-color: red;
-    color: white;
 }
 li a.curpos {
     background-color: #060;
@@ -72,5 +70,5 @@ p {
     color: white;
 }
 p:hover {
-    color: #eee
+    color: #eee;
 }
