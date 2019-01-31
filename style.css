@@ -27,7 +27,6 @@ li a {
 li a:hover {
     background-color: #fc0;
     color: black;
-    text-decoration: underline #0ff;
 }
 li a:visited:hover {
     background-color: red;
@@ -60,6 +59,7 @@ li a.curpos {
 }
 a {
     color: #88f;
+    text-decoration: none;
 }
 a:hover {
     color: white;
