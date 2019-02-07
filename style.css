@@ -31,11 +31,11 @@ li a:hover {
 }
 li a:visited:hover {
     background-color: red;
-    color: green;
+    color: white;
 }
 li a.curpos {
     background-color: green;
-    color: green;
+    color: white;
 }
 .content {
     margin-top: 60px;
