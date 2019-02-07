@@ -20,33 +20,33 @@ li {
 
 li a {
     display: block;
-    color: white;
+    color: green;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 li a:hover {
     background-color: #fc0;
-    color: white;
+    color: green;
 }
 li a:visited:hover {
     background-color: red;
-    color: white;
+    color: green;
 }
 li a.curpos {
     background-color: green;
-    color: white;
+    color: green;
 }
 .content {
     margin-top: 60px;
     background-color: black;
-    color: white;
+    color: green;
     padding: 0 20px 20px 20px;
 }
 .button {
     background-color: black;
     display: inline-block;
-    color: white;
+    color: green;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -57,11 +57,11 @@ li a.curpos {
     color: black;
 }
 .button:visited:hover {
-    color: white;
+    color: green;
     background-color: red;
 }
 a {
-    color: #88f;
+    color: #886;
     text-decoration: none;
 }
 a:hover {
@@ -71,8 +71,5 @@ a:visited:hover {
     color: red;
 }
 p {
-    color: white;
-}
-p:hover {
-    color: #eee;
+    color: green;
 }
