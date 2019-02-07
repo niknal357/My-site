@@ -58,7 +58,7 @@ li a.curpos {
     color: black;
 }
 .button:visited:hover {
-    color: green;
+    color: white;
     background-color: red;
 }
 a {
