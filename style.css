@@ -1,6 +1,7 @@
 html, body {
     margin: 0;
     padding: 0;
+    background-color: black;
 }
 ul {
     position: fixed;
@@ -40,6 +41,7 @@ li a.curpos {
     margin-top: 60px;
     background-color: black;
     color: white;
+    padding: 0 20px 20px 20px;
 }
 .button {
     background-color: black;
